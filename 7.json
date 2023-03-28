@@ -1,0 +1,14 @@
+{
+  "createdAt": "2023-03-28T15:22:15.088Z",
+  "updatedAt": "2023-03-28T15:22:15.088Z",
+  "id": "7",
+  "name": "Another one",
+  "active": false,
+  "nodes": [],
+  "connections": {},
+  "settings": {},
+  "staticData": null,
+  "pinData": {},
+  "versionId": "a813b998-60d3-4772-8dc3-0db8ea5b0c82",
+  "triggerCount": 0
+}
