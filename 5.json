@@ -1,0 +1,14 @@
+{
+  "createdAt": "2023-03-28T15:10:28.357Z",
+  "updatedAt": "2023-03-28T15:10:28.357Z",
+  "id": "5",
+  "name": "My workflowdqsdqsd",
+  "active": false,
+  "nodes": [],
+  "connections": {},
+  "settings": {},
+  "staticData": null,
+  "pinData": {},
+  "versionId": "61756a9c-ecae-44b6-bf17-aabac5db4a4a",
+  "triggerCount": 0
+}
