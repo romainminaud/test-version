@@ -1,6 +1,6 @@
 {
   "createdAt": "2023-03-28T15:40:27.865Z",
-  "updatedAt": "2023-03-28T15:41:01.000Z",
+  "updatedAt": "2023-03-28T15:41:29.000Z",
   "id": "10",
   "name": "Another one",
   "active": false,
@@ -15,12 +15,37 @@
         440,
         320
       ]
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "id": "6a466d1a-b132-4e4d-8376-609ab2a9a8b2",
+      "name": "HTTP Request",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        620,
+        320
+      ]
     }
   ],
-  "connections": {},
+  "connections": {
+    "When clicking \"Execute Workflow\"": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
   "settings": {},
   "staticData": null,
   "pinData": {},
-  "versionId": "7871f613-d1ba-43b3-b168-6c70466618dc",
+  "versionId": "bd5ca362-870d-4367-834d-ed07cd6c8e11",
   "triggerCount": 0
 }
