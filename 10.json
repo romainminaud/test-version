@@ -1,14 +1,26 @@
 {
   "createdAt": "2023-03-28T15:40:27.865Z",
-  "updatedAt": "2023-03-28T15:40:27.865Z",
+  "updatedAt": "2023-03-28T15:41:01.000Z",
   "id": "10",
   "name": "Another one",
   "active": false,
-  "nodes": [],
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "75443a5c-12f0-4b36-86de-678c20bd1231",
+      "name": "When clicking \"Execute Workflow\"",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        440,
+        320
+      ]
+    }
+  ],
   "connections": {},
   "settings": {},
   "staticData": null,
   "pinData": {},
-  "versionId": "71e86d2c-eddb-40f1-893d-976fc33343f8",
+  "versionId": "7871f613-d1ba-43b3-b168-6c70466618dc",
   "triggerCount": 0
 }
